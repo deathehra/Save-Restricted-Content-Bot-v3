@@ -1,6 +1,6 @@
 {
   "name": "Save Restricted Content Bot v3",
-  "description": "Save Restricted Content Bot by Team SPY",
+  "description": "Save Restricted Content Bot by Death WORLD",
   "logo": "https://lh3.googleusercontent.com/-HPcn7AqepNg/AAAAAAAAAAI/AAAAAAAAAAA/ALKGfknb1BkQiq-8_KUVOYcNAJ4swKivDQ/photo.jpg",
   "keywords": ["python3", "telegram", "MusicBot", "telegram-bot", "pyrogram"],
   "repository": "https://github.com/devgaganin/save_restricted-content-telegram-bot-repo",
@@ -33,7 +33,7 @@
     },
     "DB_NAME": {
       "description": "Database name for MongoDB (default: telegram_downloader)",
-      "value": "telegram_downloader",
+      "value": "tg_downloader",
       "required": false
     },
     "STRING": {
@@ -43,12 +43,12 @@
     },
     "FORCE_SUB": {
       "description": "Channel ID (with -100 prefix) for forced subscription",
-      "value": "-10012345567",
+      "value": "-1002222755917",
       "required": true
     },
     "LOG_GROUP": {
       "description": "Log channel/group ID (with -100 prefix) where the bot will send logs",
-      "value": "-1001234456",
+      "value": "-1002114900473",
       "required": true
     },
     "MASTER_KEY": {
@@ -83,12 +83,12 @@
     },
     "ADMIN_CONTACT": {
       "description": "type admin contact link",
-      "value": "https://t.me/kingofpatal",
+      "value": "https://t.me/Deathsupportbot",
       "required": true
     },
     "JOIN_LINK": {
       "description": "type join channel link which comes on /start",
-      "value": "https://t.me/team_spy_pro",
+      "value": "https://t.me/Deathkingworld",
       "required": true
     }
   },
@@ -98,3 +98,4 @@
   ],
   "stack": "container"
 }
+
